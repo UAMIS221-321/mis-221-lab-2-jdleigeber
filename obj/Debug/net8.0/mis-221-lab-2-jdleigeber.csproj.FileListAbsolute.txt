@@ -1,0 +1,15 @@
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\bin\Debug\net8.0\mis-221-lab-2-jdleigeber.exe
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\bin\Debug\net8.0\mis-221-lab-2-jdleigeber.deps.json
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\bin\Debug\net8.0\mis-221-lab-2-jdleigeber.runtimeconfig.json
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\bin\Debug\net8.0\mis-221-lab-2-jdleigeber.dll
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\bin\Debug\net8.0\mis-221-lab-2-jdleigeber.pdb
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\mis-221-lab-2-jdleigeber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\mis-221-lab-2-jdleigeber.AssemblyInfoInputs.cache
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\mis-221-lab-2-jdleigeber.AssemblyInfo.cs
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\mis-221-lab-2-jdleigeber.csproj.CoreCompileInputs.cache
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\mis-221-lab-2-jdleigeber.sourcelink.json
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\mis-221-lab-2-jdleigeber.dll
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\refint\mis-221-lab-2-jdleigeber.dll
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\mis-221-lab-2-jdleigeber.pdb
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\mis-221-lab-2-jdleigeber.genruntimeconfig.cache
+C:\Users\jdlei\lab-test\mis-221-lab-2-jdleigeber\obj\Debug\net8.0\ref\mis-221-lab-2-jdleigeber.dll
